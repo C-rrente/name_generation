@@ -1,3 +1,5 @@
+//EXAMPLE MAIN
+
 #include <iostream>
 #include "rng.h"
 #include <time.h>
